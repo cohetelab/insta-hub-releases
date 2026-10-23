@@ -1,4 +1,4 @@
-# Insta Hub
+# Core Insta Hub
 
 인스타그램 계정 여러 개를 **계정별 로그인 상태 그대로** 한 창에서 전환하고, 동시에 나란히 볼 수 있는 Windows 데스크톱 앱입니다.
 
@@ -17,7 +17,7 @@
 
 ## 설치
 
-1. 위 링크의 Releases 페이지에서 `InstaHub-Setup-x.x.x.exe`를 받아 실행합니다.
+1. 위 링크의 Releases 페이지에서 `CoreInstaHub-Setup-x.x.x.exe`를 받아 실행합니다.
 2. Windows SmartScreen 경고가 뜨면 **추가 정보 → 실행**을 누르세요. 코드 서명이 없는 앱이라 나오는 경고입니다.
 3. 설치가 끝나면 앱이 바로 실행됩니다.
 
